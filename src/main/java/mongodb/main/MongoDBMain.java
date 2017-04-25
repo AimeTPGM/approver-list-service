@@ -12,8 +12,8 @@ public class MongoDBMain {
 	 
     private static final String DB_NAME = "approverlisttest";
     private static final String COLLECTION = "approverlisttestonly";
-    private static final String MONGO_HOST = "210.121.158.162";
-    private static final int MONGO_PORT = 27017;
+    private static final String MONGO_HOST = "210.121.158.167";
+    private static final int MONGO_PORT = 27018;
     private static MongoClient mongo;
     private static ApplicationContext ctx;
  
